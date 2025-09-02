@@ -1,2 +1,2 @@
-# personal-website-
-This is my personal website. This is my first project ever. I am excited to become a better skilled full-stack web developer.
+# personal-website
+This is my personal website. This is my first project ever. I am excited to build many more projects in the future.
